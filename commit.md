@@ -1,1 +1,1 @@
-2 SQL DB design logic bugs fixed on 8/18/2016
+5 SQL DB design logic bugs fixed on 10/5/2016
